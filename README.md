@@ -6,7 +6,7 @@ Portfolio: https://maharshiozaog.github.io/
 
 | Resume | Link |
 |---|---|
-| RTL Design | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_RTL.pdf |
+| RTL Design (incl. Low Power, PD, DFT) | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_RTL.pdf |
 | Design Verification | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_DV.pdf |
 | Perception & Computer Vision | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_Perception.pdf |
-| RTL + Low Power + PD + DFT | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_Hardware.pdf |
+| Same RTL resume, older link | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_Hardware.pdf |
