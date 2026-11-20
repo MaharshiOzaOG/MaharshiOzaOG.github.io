@@ -17,3 +17,10 @@ Portfolio: https://maharshiozaog.github.io/
 |---|---|
 | Design Verification (India) | https://maharshiozaog.github.io/resume/india/Maharshi_Oza_Resume_DV_India.pdf |
 | RTL Design (India) | https://maharshiozaog.github.io/resume/india/Maharshi_Oza_Resume_RTL_India.pdf |
+
+## India Self resumes
+
+| Resume | Link |
+|---|---|
+| Design Verification (India Self) | https://maharshiozaog.github.io/resume/india_self/Maharshi_Oza_Resume_DV_India_Self.pdf |
+| RTL Design (India Self) | https://maharshiozaog.github.io/resume/india_self/Maharshi_Oza_Resume_RTL_India_Self.pdf |
