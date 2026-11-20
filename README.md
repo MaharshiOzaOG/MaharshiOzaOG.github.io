@@ -10,3 +10,10 @@ Portfolio: https://maharshiozaog.github.io/
 | Design Verification | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_DV.pdf |
 | Perception & Computer Vision | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_Perception.pdf |
 | Same RTL resume, older link | https://maharshiozaog.github.io/resume/Maharshi_Oza_Resume_Hardware.pdf |
+
+## India resumes
+
+| Resume | Link |
+|---|---|
+| Design Verification (India) | https://maharshiozaog.github.io/resume/india/Maharshi_Oza_Resume_DV_India.pdf |
+| RTL Design (India) | https://maharshiozaog.github.io/resume/india/Maharshi_Oza_Resume_RTL_India.pdf |
