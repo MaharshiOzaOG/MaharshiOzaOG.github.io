@@ -30,3 +30,9 @@ Portfolio: https://maharshiozaog.github.io/
 | Resume | Link |
 |---|---|
 | CPU Design Verification | [Maharshi_Oza_Resume_DV_CPU.pdf](https://maharshiozaog.github.io/resume/cpu_dv/Maharshi_Oza_Resume_DV_CPU.pdf) |
+
+## CPU RTL Design
+
+| Resume | Link |
+|---|---|
+| CPU RTL Microarchitecture / Design | [Maharshi_Oza_Resume_RTL_CPU.pdf](https://maharshiozaog.github.io/resume/cpu_rtl/Maharshi_Oza_Resume_RTL_CPU.pdf) |
